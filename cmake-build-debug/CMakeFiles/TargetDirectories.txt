@@ -1,0 +1,3 @@
+/home/systemdev/CLionProjects/RockPaperScissors/cmake-build-debug/CMakeFiles/RockPaperScissors.dir
+/home/systemdev/CLionProjects/RockPaperScissors/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/systemdev/CLionProjects/RockPaperScissors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
