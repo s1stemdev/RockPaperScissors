@@ -19,6 +19,8 @@ string get_result(string player, string computer) {
 }
 
 int main() {
+    setlocale(LC_ALL, "Rus");
+
     while (true) {
         cout << "Your move! (rock, paper, scissors) ''cancel'' to exit: ";
 
